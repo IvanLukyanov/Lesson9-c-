@@ -1,0 +1,15 @@
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\bin\Debug\net6.0\Zadacha64.exe
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\bin\Debug\net6.0\Zadacha64.deps.json
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\bin\Debug\net6.0\Zadacha64.runtimeconfig.json
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\bin\Debug\net6.0\Zadacha64.dll
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\bin\Debug\net6.0\Zadacha64.pdb
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.csproj.AssemblyReference.cache
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.AssemblyInfoInputs.cache
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.AssemblyInfo.cs
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.csproj.CoreCompileInputs.cache
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.dll
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\refint\Zadacha64.dll
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.pdb
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\Zadacha64.genruntimeconfig.cache
+D:\GB\ДЗ\DZ lesson9 c#\Zadacha64\obj\Debug\net6.0\ref\Zadacha64.dll
